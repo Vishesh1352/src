@@ -13,7 +13,7 @@ func main() {
 	x = 42
 	fmt.Print(x)
 	y = int(x)
-	y := 43
+	y = 43
 	fmt.Printf("\n")
 	fmt.Print(y)
 }
