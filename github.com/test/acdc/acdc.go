@@ -1,4 +1,4 @@
-package acdc
+package main
 
 func Sum(xi ...int) int {
 	s := 0
