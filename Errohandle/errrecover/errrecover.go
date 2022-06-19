@@ -4,7 +4,6 @@ import (
 	"fmt"
 
 )
-SSSSSSSSSSSSSSSSSSSS
 
 func main() {
 	fo()

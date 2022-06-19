@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 )
-ssssssssss
+
 func main() {
 	var ans1, ans2, ans3 string
 	fmt.Print("Name: ")

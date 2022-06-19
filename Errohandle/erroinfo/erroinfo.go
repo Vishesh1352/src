@@ -5,7 +5,7 @@ import (
 	"log"
 
 )
-SSSSSSSSSSSSSSSSSSSS
+
 func main() {
 	_,err := sqrt(-10)
 	if err != nil {

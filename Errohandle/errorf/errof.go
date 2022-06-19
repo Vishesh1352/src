@@ -5,7 +5,6 @@ import (
 	"log"
 
 )
-sssssssss
 
 func main() {
 	_,err := sqrt(-10)

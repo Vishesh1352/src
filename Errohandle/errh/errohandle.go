@@ -4,7 +4,7 @@ import (
 	"fmt"
 
 )
-sssssssss
+
 func main() {
 	n,err := fmt.Print("Hello, world!")
 	if err!= nil{

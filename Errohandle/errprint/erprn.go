@@ -6,7 +6,7 @@ import (
 	"os"
 
 )
-sssssssss
+
 func main() {
 	f,err := os.Create("log.txt")
 	if err != nil {
