@@ -1,9 +1,7 @@
 package main
 
-import (
-	"fmt"
 
-)
+import 	"fmt"
 
 func main() {
 	var ans1, ans2, ans3 string
