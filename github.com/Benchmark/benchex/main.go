@@ -3,10 +3,10 @@ package main
 import (
 	"fmt"
 
-	"github.com/Vishesh1352/Benchmark/benchex/saying"
+	"example.com/src/github.com/Benchmark/benchex/speak"
 
 )
-
+sssssss
 func main() {
-	fmt.Print(saying.Greet("james"))
+	fmt.Print(speak.Greet("yash"))
 }
